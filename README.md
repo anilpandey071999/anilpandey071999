@@ -30,5 +30,6 @@ I'm a student with a passion for making a change through technology. While that 
 </a>
   
 </div>
+---
 Feel free to take a look around! Thanks for stopping by. ✌️
    
