@@ -22,10 +22,10 @@ I'm a student with a passion for making a change through technology. While that 
 
 ---
 <div align="center">
-<a href="https://github.com/NeelParihar">
+<a href="https://github.com/anilpandey071999">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilpandey071999&theme=light&layout=compact&exclude_repo=colordetection" />
 </a>
-<a href="https://github.com/NeelParihar">
+<a href="https://github.com/anilpandey071999">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anilpandey071999&show_icons=true&theme=light&line_height=20" alt="Neel's github stats"/>
 </a>
   
