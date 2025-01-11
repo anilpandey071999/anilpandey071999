@@ -13,12 +13,11 @@ I'm a student with a passion for making a change through technology. While that 
 
 - Node.js
 - Flutter
-- Python
+- GO
+- Rust
 
 ### 💭 I hope to learn...
 - AWS
-- React
-- GO
 
 ---
 <div align="center">
