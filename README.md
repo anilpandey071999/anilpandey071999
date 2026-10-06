@@ -1,32 +1,37 @@
-##  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello world, I'm Anil!
+# 👋 Hey, I'm Anil
 
-I'm a student with a passion for making a change through technology. While that one-liner is fairly ambiguous, it gives me a purpose and motivation to create interesting (and hopefully helpful!) stuff.
+### Software Engineer · Rust · Systems Programming
 
-- 🌱 I’m currently learning more about Backend Development.
-- 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anil-pandey-071999/)
-- <img width="25px" src="https://img.icons8.com/nolan/64/medium-new.png"/> My Articles: [Medium](https://medium.com/@anilpandey071999)
+I build software close to the system — with a focus on **Rust, concurrency, performance, and reliable backend infrastructure**.
 
----
+I'm particularly interested in understanding how software interacts with the **OS, memory, CPU, networking, storage, and hardware** rather than treating these layers as black boxes.
 
-### 🛠 I work with...
+### ⚙️ Areas I Work & Learn In
 
-- Node.js
-- Flutter
-- GO
-- Rust
+- 🦀 **Rust & Systems Programming**
+- 🧵 **Concurrency & Async Runtime Systems**
+- 🧠 **Memory Management & Computer Architecture**
+- ⚡ **Performance Engineering & Profiling**
+- 🌐 **Networking & Distributed Systems**
+- 💾 **Databases, Storage & Indexing**
+- 🐧 **Linux & Operating Systems**
 
-### 💭 I hope to learn...
-- AWS
+### 🛠️ Technologies
 
----
-### :fire: My Stats
+`Rust` `Tokio` `Go` `C/C++` `Linux` `PostgreSQL` `Redis` `Kafka` `ClickHouse` `Docker` `Kubernetes` `AWS`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anilpandey071999&hide=contribs,prs,issues&show_icons=true&rank_icon=github)
+### 🔬 Currently Going Deeper
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilpandey071999&layout=compact&exclude_repo=tech-lessons-posts,anilpandey071999.github.io&langs_count=8)
+**Rust internals · OS fundamentals · concurrency · computer architecture · networking · database internals · distributed systems**
 
+I’m especially interested in building systems where **latency, memory usage, concurrency, reliability, and hardware characteristics actually matter.**
 
----
-Feel free to take a look around! Thanks for stopping by. ✌️
-   
+### 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilpandey071999&show_icons=true&rank_icon=github&hide=contribs,prs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anilpandey071999&layout=compact&exclude_repo=tech-lessons-posts,anilpandey071999.github.io&langs_count=8)
+
+### 🤝 Find me here
+
+[LinkedIn](https://www.linkedin.com/in/anil-pandey-071999/)
